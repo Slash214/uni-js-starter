@@ -10,7 +10,7 @@ uni-app 3 + **JavaScript** + Vue 3 + Vite + Pinia 的小程序启动模板，克
 ## 快速开始
 
 ```bash
-git clone <你的仓库 URL> my-app
+git clone https://github.com/Slash214/uni-js-starter.git my-app
 cd my-app
 npm install
 npm run dev:mp-weixin

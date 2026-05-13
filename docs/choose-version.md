@@ -11,14 +11,14 @@
 
 ## 克隆命令
 
-维护者账号示例为 **`slash214`**（与当前机器 `git config user.name` 一致）。**若你的 GitHub 登录名不同**，请把下面 URL 里的用户名改成你的账号。
+维护者账号为 **`Slash214`**（与 GitHub 仓库路径一致）。
 
 ```bash
 # TypeScript 模板
-git clone https://github.com/slash214/uni-ts-starter.git my-app && cd my-app
+git clone https://github.com/Slash214/uni-ts-starter.git my-app && cd my-app
 
 # JavaScript 模板
-git clone https://github.com/slash214/uni-js-starter.git my-app && cd my-app
+git clone https://github.com/Slash214/uni-js-starter.git my-app && cd my-app
 ```
 
 ## 克隆后自检（10 秒）
